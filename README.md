@@ -4,7 +4,7 @@ Submissions for the [Polkadot Challenges](https://github.com/Polkadot-Network/he
 
 ## [BEGINNER CHALLENGE] Launch a local Substrate development chain
 
-![Screenshot that shows processed transaction and remark](https://i.imgur.com/4SyiLJn.png)
+![Screenshot that shows processed transaction and remark](https://i.imgur.com/0errg9K.png)
 
 ## [BEGINNER CHALLENGE] Run a private Substrate network
 
