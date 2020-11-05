@@ -1,0 +1,15 @@
+{
+  "name": "polkadot-backend-js",
+  "version": "0.0.1",
+  "description": "polkadot api test",
+  "main": "main.js",
+  "dependencies": {
+    "@polkadot/api": "^2.5.1",
+    "yargs": "^16.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "keywords": [],
+  "author": "elektronaut0815",
+  "license": "MIT"
+}
