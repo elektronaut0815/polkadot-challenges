@@ -13,3 +13,9 @@ Submissions for the [Polkadot Challenges](https://github.com/Polkadot-Network/he
 ## [BEGINNER CHALLENGE] Run a private Substrate network
 
 ![Screenshot that shows restarting the second node after adding the keys](https://i.imgur.com/26V5v4l.png)
+
+## [BEGINNER CHALLENGE] Run a Kusama or Polkadot node and add it to Telemetry
+
+![Screenshot that shows telemetry](https://i.imgur.com/GlRWBu6.png)
+
+![Screenshot that shows running processes](https://i.imgur.com/wVLWwFt.png)
